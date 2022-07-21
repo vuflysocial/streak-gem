@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/streak-gem/static/css/main.d6ba7491.chunk.css",
+    "main.js": "/streak-gem/static/js/main.f0af3257.chunk.js",
+    "main.js.map": "/streak-gem/static/js/main.f0af3257.chunk.js.map",
+    "runtime-main.js": "/streak-gem/static/js/runtime-main.355e8eef.js",
+    "runtime-main.js.map": "/streak-gem/static/js/runtime-main.355e8eef.js.map",
+    "static/css/2.93c0f965.chunk.css": "/streak-gem/static/css/2.93c0f965.chunk.css",
+    "static/js/2.0b99122a.chunk.js": "/streak-gem/static/js/2.0b99122a.chunk.js",
+    "static/js/2.0b99122a.chunk.js.map": "/streak-gem/static/js/2.0b99122a.chunk.js.map",
+    "index.html": "/streak-gem/index.html",
+    "service-worker.js": "/streak-gem/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/streak-gem/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/streak-gem/service-worker.js.map",
+    "static/css/2.93c0f965.chunk.css.map": "/streak-gem/static/css/2.93c0f965.chunk.css.map",
+    "static/css/main.d6ba7491.chunk.css.map": "/streak-gem/static/css/main.d6ba7491.chunk.css.map",
+    "static/js/2.0b99122a.chunk.js.LICENSE.txt": "/streak-gem/static/js/2.0b99122a.chunk.js.LICENSE.txt",
+    "static/media/Coin98.1e4e4073.png": "/streak-gem/static/media/Coin98.1e4e4073.png",
+    "static/media/Hoodie.92a63607.png": "/streak-gem/static/media/Hoodie.92a63607.png",
+    "static/media/Mages.29ea7cc0.png": "/streak-gem/static/media/Mages.29ea7cc0.png",
+    "static/media/MathWallet.c8223809.svg": "/streak-gem/static/media/MathWallet.c8223809.svg",
+    "static/media/SafePal.482d45d2.svg": "/streak-gem/static/media/SafePal.482d45d2.svg",
+    "static/media/Streaks.a766553e.png": "/streak-gem/static/media/Streaks.a766553e.png",
+    "static/media/StreaksCollected.874fdc42.png": "/streak-gem/static/media/StreaksCollected.874fdc42.png",
+    "static/media/TokenPocket.977e38ab.svg": "/streak-gem/static/media/TokenPocket.977e38ab.svg",
+    "static/media/wallet-connect.488dc369.svg": "/streak-gem/static/media/wallet-connect.488dc369.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.355e8eef.js",
+    "static/css/2.93c0f965.chunk.css",
+    "static/js/2.0b99122a.chunk.js",
+    "static/css/main.d6ba7491.chunk.css",
+    "static/js/main.f0af3257.chunk.js"
+  ]
+}
